@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("This is a test");
         System.out.println("This is a test");
         System.out.println("This is a hot-fix test");
+        System.out.println("This is a hot-fix test!!!");
     }
 }
